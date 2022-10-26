@@ -21,7 +21,7 @@ body {
 }
 
 /* <--шапка */
-.logo-header {
+.logo {
     text-decoration: none;
     font-family: 'Raleway';
     font-style: normal;
@@ -176,7 +176,7 @@ body {
 }
 
 /* <--!footer */
-.page-footer {
+.footer {
     background: var(--title-text-color);
 }
 
