@@ -37,6 +37,9 @@ body {
 .logo-header:hover {
     color: #2196F3
 }
+.mark {
+    color: #212121;
+}
 
 /* <--!навігація */
 .nav-list {}
@@ -189,6 +192,9 @@ body {
     letter-spacing: 0.03em;
 
     color: var(--secondary-text-color);
+}
+.sing {
+    color: #FFFFFF;
 }
 
 .address-link {
