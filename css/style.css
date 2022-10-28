@@ -246,20 +246,20 @@ body {
 }
 
 .project-btn {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.6;
-
-    text-align: center;
-    letter-spacing: 0.03em;
-
-    color: var(--title-text-color);
-    cursor: pointer;
-}
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.6;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+   }
 
 .project-btn:hover {
-    color: #2196F3;
+    background-color: var(--secondary-text-color);
+    color: var(--first-accent-color);
 }
 
 .project-title {
