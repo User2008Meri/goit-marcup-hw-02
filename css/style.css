@@ -60,23 +60,13 @@ body {
     color: var(--secondary-text-color);
 }
 
-.header-link-mail:hover,
-.header-link-mail:focus {
-    color: var(--secondary-text-color);
-
-}
-
-.header-link-tel {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-
+.contact-link {
     color: var(--primary-tex-color);
 }
 
-.header-link-tel:hover,
-.header-link-tel:focus {
+
+.contact-link:hover,
+.contact-link:focus {
     color: var(--secondary-text-color);
 }
 
